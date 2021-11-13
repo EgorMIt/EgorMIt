@@ -1,9 +1,12 @@
 <h1 align="center">Привет, я Егор</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egormit&label=Profile%20views&color=0e75b6&style=flat" alt="egormit" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=egormit&label=Profile%20views&color=0e75b6&style=flat" alt="egormit" />
+  <img src=https://badges.pufler.dev/years/egormit alt=egormit/> 
+</p>
 
-- 🔭 Студент факультета ПИиКТ [https://itmo.ru/](https://itmo.ru/)
+- 🔭 Студент факультета ПИиКТ [ITMO University](https://itmo.ru/)
 
-- 👨‍💻 Все лабы и отчеты доступны в [https://github.com/EgorMIt/ITMO](https://github.com/EgorMIt/ITMO)
+- 👨‍💻 Все лабы и отчеты доступны в репозитории [EgorMIt/ITMO](https://github.com/EgorMIt/ITMO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,16 +1,11 @@
-<p align="left"> 
-  <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
-  <img src=https://badges.pufler.dev/years/egormit alt=egormit/> 
-</p>
-
-- 🔭 Студент факультета ПИиКТ [ITMO University](https://itmo.ru/)
+- 🔭 Студент Факультета ПИиКТ в [ITMO University](https://itmo.ru/)
 
 - 👨‍💻 Все лабы и отчеты доступны в репозитории [EgorMIt/ITMO](https://github.com/EgorMIt/ITMO)
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">По всем вопросам</h3>
 <p align="left">
-  <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/> </a>
-   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg"/></a>
+  <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="22px" src="https://free-png.ru/wp-content/uploads/2020/04/VK_Blue_Logo_t-340x340.png"/> </a>
+   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png"/></a>
 </p>
 <br />
 

@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=egormit&label=Profile%20views&color=0e75b6&style=flat" alt="egormit" />
+  <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
   <img src=https://badges.pufler.dev/years/egormit alt=egormit/> 
 </p>
 

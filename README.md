@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [<img align="left" alt="egormit | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk](https://vk.com/mitr_ov)
-  [<img align="left" alt="egormit | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][tg](https://t.me/mitr_ov)
+  [<img align="left" alt="egormit | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" [vk](https://vk.com/mitr_ov)/>]
+  [<img align="left" alt="egormit | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" [tg](https://t.me/mitr_ov)/>]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

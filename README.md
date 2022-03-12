@@ -1,17 +1,11 @@
-- Студент Факультета ПИиКТ в [ITMO University](https://itmo.ru/)
+* Студент Факультета ПИиКТ в [ITMO University](https://itmo.ru/)
 
-- Все лабы и отчеты доступны в репозитории [EgorMIt/ITMO](https://github.com/EgorMIt/ITMO)
+* Все лабы и отчеты доступны в репозитории [EgorMIt/ITMO](https://github.com/EgorMIt/ITMO)
 
-- Некоторые проекты и курсовые находятся в отдельных репозиториях 
+* Некоторые проекты и курсовые находятся в отдельных репозиториях 
 
-<h3 align="left">По всем вопросам</h3>
-<p align="left">
-  <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
-   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
-</p>
-<br />
 
-<h3 align="left">Языки и навыки</h3>
+## Языки и навыки
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -28,7 +22,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+## Контакты
+<p align="left">
+  <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
+   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+</p>
+<br />  
+<br />  
+
+## GitHub Stats
 <details>
-  <summary>GitHub Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=egormit&show_icons=true&locale=en" alt="egormit" />
 </details>

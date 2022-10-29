@@ -1,11 +1,11 @@
-* Студент Факультета ПИиКТ в [ITMO University](https://itmo.ru/)
+* Studing Software Engineering in [ITMO University](https://en.itmo.ru/)
 
 * Все лабы и отчеты доступны в репозитории [EgorMIt/ITMO](https://github.com/EgorMIt/ITMO)
 
 * Некоторые проекты и курсовые находятся в отдельных репозиториях 
 
 
-## Языки и навыки
+## Languages and hard skills
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -22,10 +22,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-## Контакты
+## Contacts
 <p align="left">
+  <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
   <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
-   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+   <a href="mailto:egor.mitrofanov@hotmail.com" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
 </p>
 <br />  
 <br />  

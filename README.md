@@ -9,10 +9,11 @@
 
 ## Languages and hard skills
 <p align="left"> 
+   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="java" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_logo_icon_146554.png" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -28,7 +29,7 @@
 <p align="left">
   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
   <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
-  <a href="https://www.linkedin.com/in/егор-митрофанов-652b81253/" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png"/> </a>
+  <a href="https://www.linkedin.com/in/егор-митрофанов-652b81253/" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/> </a>
    <a href="mailto:egor.mitrofanov@hotmail.com" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
 </p>
 <br />  

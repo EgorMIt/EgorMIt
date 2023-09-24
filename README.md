@@ -1,4 +1,4 @@
-* Studing Software Engineering in [ITMO University](https://en.itmo.ru/)
+* Студент магистратуры в [Университете ИТМО](https://itmo.ru/)
 
 * Разработчик в команде [Яндекс.Банка](https://bank.yandex.ru/)
 
@@ -36,6 +36,5 @@
 <br />  
 
 ## GitHub Stats
-<details>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egormit&show_icons=true&locale=en" alt="egormit" />
-</details>
+| ![Stats](https://github-readme-stats.vercel.app/api?username=EgorMIt&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorMIt&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/EgorMIt/github-readme-stats) |
+|---|---|

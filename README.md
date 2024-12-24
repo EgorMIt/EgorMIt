@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://t.me/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
   <a href="https://vk.com/mitr_ov" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
-  <a href="https://www.linkedin.com/in/егор-митрофанов-652b81253/" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/> </a>
+  <a href="https://www.linkedin.com/in/egor-mitrofanov-652b81253/" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/> </a>
    <a href="mailto:egor.mitrofanov@hotmail.com" target="_blank" rel="noreferrer"> <img align="left" alt="egormit | VK" width="36px" src="https://stmaaprodfwsite.blob.core.windows.net/assets/sites/9/2020/05/email-13765-300x300.png"/> </a>
 </p>
 <br />  
